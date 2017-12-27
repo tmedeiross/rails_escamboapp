@@ -12,6 +12,7 @@ gem 'devise', git: 'https://github.com/plataformatec/devise'
 gem 'devise-i18n'
 gem 'rails-i18n'
 gem 'bootstrap_sb_admin_base_v2'
+gem 'rails-assets-bootstrap', '3.3.7', source: 'https://rails-assets.org'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
